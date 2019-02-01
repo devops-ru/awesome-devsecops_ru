@@ -32,4 +32,4 @@
 
 ## Разное
 
-* TBD
+* [Linux logs data sources (for Information Security purposes). Links to appropriate Splunk Apps are available as well](https://docs.google.com/spreadsheets/d/1ccXuv4KZ1ndNFKwNuXpTgvgMgvQ16joUI408v232a9I) by [Rustam Abdullin](https://www.linkedin.com/in/rustam-abdullin-11010635/)
