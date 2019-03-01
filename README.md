@@ -8,11 +8,17 @@
 
 ## Видео выступлений
 
-* [Управление секретами при помощи Hashicorp Vault // Сергей Носков, Avito](https://youtu.be/klC4ssaPHZY), [слайды](https://speakerdeck.com/devopsmoscow/upravlieniie-siekrietami-v-avito-pri-pomoshchi-hashicorp-vault)
+* [Управление секретами при помощи Hashicorp Vault // Сергей Носков, Avito](https://youtu.be/klC4ssaPHZY), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/upravlieniie-siekrietami-v-avito-pri-pomoshchi-hashicorp-vault)
 
-* [Страх и ненависть DevSecOps // Шабалин Юрий, Swordfish Security](https://youtu.be/ROH636e7Rx8), [слайды](https://speakerdeck.com/devopsmoscow/strakh-i-nienavist-devsecops)
+* [Страх и ненависть DevSecOps // Шабалин Юрий, Swordfish Security](https://youtu.be/ROH636e7Rx8), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/strakh-i-nienavist-devsecops)
 
-* [Security Compliance & DevOps // Степан Носов, IPONWEB](https://youtu.be/BtFeWnR1xXE), [слайды](https://speakerdeck.com/devopsmoscow/security-compliance-and-devops)
+* [Security Compliance & DevOps // Степан Носов, IPONWEB](https://youtu.be/BtFeWnR1xXE), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/security-compliance-and-devops)
+
+* [Безопасность в Kubernetes (Дмитрий Лазаренко, Mail.Ru Cloud Solutions) / ♥ Kubernetes meetup](https://youtu.be/62XWgBIYnJ8)
+
+* [Practical steps for securing your container deployment, Liz Rice, Aqua Security](https://youtu.be/WSiCZ6v35gw), [страница доклада на DevOops 2018](https://2018.devoops.ru/2018/spb/talks/2yl4oqifo4oqqmwwgwg4as/)
+
+* [Modern security with microservices and the cloud, Seth Vargo, Google](https://youtu.be/Qx2N6EDIIow), [страница доклада на DevOops 2018](https://2018.devoops.ru/2018/spb/talks/14ss0jq4v8ci4ekuoewew6/)
 
 ## Статьи
 
@@ -33,3 +39,5 @@
 ## Разное
 
 * [Linux logs data sources (for Information Security purposes). Links to appropriate Splunk Apps are available as well](https://docs.google.com/spreadsheets/d/1ccXuv4KZ1ndNFKwNuXpTgvgMgvQ16joUI408v232a9I) by [Rustam Abdullin](https://www.linkedin.com/in/rustam-abdullin-11010635/)
+
+* [DevSec Hardening Framework](https://dev-sec.io)
