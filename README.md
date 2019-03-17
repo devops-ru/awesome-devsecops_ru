@@ -10,6 +10,8 @@
 
 * [Управление секретами при помощи Hashicorp Vault // Сергей Носков, Avito](https://youtu.be/klC4ssaPHZY), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/upravlieniie-siekrietami-v-avito-pri-pomoshchi-hashicorp-vault)
 
+* [Управление секретами при помощи Hashicorp Vault в Авито / Сергей Носков (Авито) (DevOpsConf Russia 2018)](https://youtu.be/oDdDPU6moTs)
+
 * [Страх и ненависть DevSecOps // Шабалин Юрий, Swordfish Security](https://youtu.be/ROH636e7Rx8), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/strakh-i-nienavist-devsecops)
 
 * [Security Compliance & DevOps // Степан Носов, IPONWEB](https://youtu.be/BtFeWnR1xXE), [DevOps Moscow meetup](https://www.meetup.com/DevOps-Moscow-in-Russian/), [слайды](https://speakerdeck.com/devopsmoscow/security-compliance-and-devops)
@@ -20,6 +22,8 @@
 
 * [Modern security with microservices and the cloud, Seth Vargo, Google](https://youtu.be/Qx2N6EDIIow), [страница доклада на DevOops 2018](https://2018.devoops.ru/2018/spb/talks/14ss0jq4v8ci4ekuoewew6/)
 
+* [Мониторинг безопасности сайтов / Григорий Земсков (Ревизиум) (РИТ++2018, RootConf)](https://youtu.be/NbN_uOxRHOo)
+
 ## Статьи
 
 * [Безопасность internal сервисов, Всеволод Поляков](https://dvps.blog/biezopasnost-internal-siervisov)
@@ -27,6 +31,12 @@
 * A guide to automating HashiCorp Vault from Gruntwork [1](https://blog.gruntwork.io/a-guide-to-automating-hashicorp-vault-1-auto-unsealing-b219970f02c6), [2](https://blog.gruntwork.io/a-guide-to-automating-hashicorp-vault-2-authenticating-with-instance-metadata-c3f9eaeaba53), [3](https://blog.gruntwork.io/a-guide-to-automating-hashicorp-vault-3-authenticating-with-an-iam-user-or-role-a3203a3ee088)
 
 * [TLDR Безопасность разработки в Agile проектах](https://medium.com/some-tldrs-ru/tldr-безопасность-разработки-в-agile-проектах-f53f55298231)
+
+* [What Your Kubernetes Security Checklist Might Be Missing by Jim Bugwadia from Nirmata](https://thenewstack.io/what-your-kubernetes-security-checklist-might-be-missing/)
+
+* [A continuation of devops: policy as code by Gareth Rushgrove, QCon London 2019](https://speakerdeck.com/garethr/a-continuation-of-devops-policy-as-code)
+
+* [CONTINUOUS SECURITY IN THE DEVOPS WORLD by JULIEN VEHENT from MOZILLA SECURITY](https://jvehent.github.io/continuous-security-talk/#/)
 
 ## Обучение, курсы
 
