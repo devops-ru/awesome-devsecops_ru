@@ -24,6 +24,10 @@
 
 * [Мониторинг безопасности сайтов / Григорий Земсков (Ревизиум) (РИТ++2018, RootConf)](https://youtu.be/NbN_uOxRHOo)
 
+* [Enabling shift-left for 12k banking developers from scratch (DevSecCon London 2018)](https://youtu.be/6IRz6F5Y4Zo?list=PLZN13UbkqPfWNy4WUd0UuWYCss69n7A10)
+
+* [Maginot Line - 6 Common AppSec Anti-Patterns Preventing your Success (DevSecCon Singapore 2018)](https://youtu.be/u0tUea0Cbdc?list=PLZN13UbkqPfUmt4IZmoTWcbou-oxUivoV)
+
 ## Статьи
 
 * [Безопасность internal сервисов, Всеволод Поляков](https://dvps.blog/biezopasnost-internal-siervisov)
@@ -42,9 +46,21 @@
 
 * [Платформа для изучения HashiCorp Vaut](https://learn.hashicorp.com/vault/)
 
+* [Крутая подборка небольших описаний методологий разработки](https://www.developmentthatpays.com/cheatsheets). Скидывайте вашим коллегам, если они не в теме)
+
+* [Security in Google Cloud Platform Specialization (Coursera)](https://www.coursera.org/specializations/security-google-cloud-platform/)
+
 ## Книги
 
 * [Безопасность разработки в Agile проектах](https://dmkpress.com/catalog/computer/securuty/978-5-97060-648-3/)
+
+## Best practices
+
+* [The First Security Engineer's 100-day Checklist](https://www.sqreen.com/checklists/security-engineer-checklist)
+
+* [AWS Security Best Practices](https://www.sqreen.com/resources/aws-security-best-practices)
+
+* [10 Docker Image Security Best Practices](https://snyk.io/blog/10-docker-image-security-best-practices/)
 
 ## Разное
 
