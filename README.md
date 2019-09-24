@@ -28,6 +28,13 @@
 * [A continuation of devops: policy as code by Gareth Rushgrove, QCon London 2019](https://speakerdeck.com/garethr/a-continuation-of-devops-policy-as-code)
 * [CONTINUOUS SECURITY IN THE DEVOPS WORLD by JULIEN VEHENT from MOZILLA SECURITY](https://jvehent.github.io/continuous-security-talk/#/)
 * [Саммари “Unit Testing Your Kubernetes Configurations Using Open Policy Agent — Gareth Rushgrove”, KubeCon + CloudNativeCon Europe 2019](https://medium.com/@Nklya/summary-unit-testing-your-kubernetes-configurations-using-open-policy-agent-gareth-rushgrove-81c3e6e15a91)
+* [Software Security Field Guide for the Bewildered от Ian Miell](https://zwischenzugs.com/2019/09/22/software-security-field-guide-for-the-bewildered/)
+* [The Path Less Traveled: Abusing Kubernetes Defaults, Black Hat USA 2019](https://speakerdeck.com/iancoldwater/the-path-less-traveled-abusing-kubernetes-defaults)
+* Серия статей про безопасность Docker от Swordfish Security:
+  * [Безопасность Docker](https://swordfishsecurity.ru/blog/docker_security)
+  * [Обзор утилит безопасности Docker](https://swordfishsecurity.ru/blog/obzor-utilit-bezopasnosti-docker)
+  * [Способы и примеры внедрения утилит для проверки безопасности Docker](https://swordfishsecurity.ru/docker-security-scanning-examples)
+  * [Репозиторий с примерами из статей](https://github.com/Swordfish-Security/docker_cicd/)
 
 ## Обучение, курсы
 
