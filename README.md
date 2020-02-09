@@ -48,7 +48,7 @@
 
 ## Best practices
 
-* [The First Security Engineer's 100-day Checklist](https://www.sqreen.com/checklists/security-engineer-checklist)
+* [The Early Security Engineer’s First 90 Days Checklist](https://www.sqreen.com/checklists/security-engineer-checklist)
 * [AWS Security Best Practices](https://www.sqreen.com/resources/aws-security-best-practices)
 * [10 Docker Image Security Best Practices](https://snyk.io/blog/10-docker-image-security-best-practices/)
 
